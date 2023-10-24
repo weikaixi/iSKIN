@@ -3,7 +3,7 @@ The codes of iSKIN tool can be found here!
 
 The machine learning models, MCP modelling and regrouping experiment results can be found in MCP_regrouping file.
 
-The Markdown of the pseudocode can be found in XXX.
+The Markdown of the iSKIN pseudocode can be found in Pseudocode.txt.
 
 The analysis of 3 kinds of descriptors distributions can be found in distribution file.
 
