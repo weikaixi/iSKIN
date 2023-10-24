@@ -1,0 +1,39 @@
+name: nyan
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=5.1
+  - ca-certificates=2022.9.24
+  - certifi=2022.9.24
+  - cudatoolkit=11.2.2
+  - cudnn=8.1.0.77
+  - ld_impl_linux-64=2.38
+  - libffi=3.3
+  - libgcc-ng=11.2.0
+  - libgomp=11.2.0
+  - libstdcxx-ng=11.2.0
+  - ncurses=6.3
+  - openssl=1.1.1q
+  - pip=22.2.2
+  - python=3.9.13
+  - readline=8.1.2
+  - setuptools=63.4.1
+  - sqlite=3.39.3
+  - tk=8.6.12
+  - tzdata=2022c
+  - wheel=0.37.1
+  - xz=5.2.6
+  - zlib=1.2.12
+  - pip:
+    - keras==2.10.0
+    - numpy==1.23.4
+    - scikit-learn==1.2.0
+    - scipy==1.9.2
+    - seaborn==0.12.0
+    - spektral==1.2.0
+    - tensorflow==2.10.0
+    - tqdm==4.64.1
+    - pysmiles==1.0.1
+    - pandas==1.5.0
