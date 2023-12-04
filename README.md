@@ -11,6 +11,8 @@ The PCA analysis of sensitizers and non-sensitizers can be found in PCAanalysis 
 
 The codes of the graph-based autoencoder can be found in NotYetAnotherNightshade-main file.
 
+The 6 models have be uploaded in allmodels file.
+
 The web-tool of iSKIN tool is at http://www.iskin.work/.
 
 If you have any questions or comments about iSKIN model, please contact Weikaixin Kong at kong.weikaixin@helsinki.fi.
